@@ -12,5 +12,8 @@
 | 16 | Pope Lick Porter          | true           | 39  | 6.5  | smokey, chocolate, banana    | 1/6/2016     | zkXBTiBol | North American Brewco      |
 | 17 | Chocolate Pukwudgie Stout | true           | 35  | 12.2 | chocolate, coffee            | 2/25/2016    | zkXBTiBol | North American Brewco      |
 | 18 | Sharlie Pilsner           | true           | 31  | 4.1  | grass                        | 2/18/2016    | zkXBTiBol | North American Brewco      |
+| 19 | Sigbin Stout              | false          | 65  | 8.1  | coffee, caramel              | 3/18/2016    | b3TplPdS  | Northern Hemisphere Brewco |
+| 21 | Snallygaster Pale Ale     | false          | 89  | 9.7  | pine, honey                  | 4/29/2016    | zkXBTiBol | North American Brewco      |
+| 22 | Tikibalang Barley Wine    | true           | 45  | 9.6  | bourbon                      | 3/14/2016    | b3TplPdS  | Northern Hemisphere Brewco |
 | 26 | Pale Popobawa Ale         | true           | 30  | 4.4  | wheat                        | 5/9/2016     | Ek4mwsBoe | Southern Hemisphere Brewco |
-|  
+| 27 | North Adjule Lager        | true           | 30  | 3.7  | citrus                       | 2/8/2016     | Ek4mwsBoe | Southern Hemisphere Brewco |  
