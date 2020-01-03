@@ -1,0 +1,38 @@
+[
+    {
+		"@search.action": "upload",
+        "id": "Ek4mwsBoe",
+        "name": "Southern Hemisphere Brewco",
+        "description": "",
+        "slogan": "",
+        "breweryType": "micro",
+		"location": { "type": "Point", "coordinates": [-86.149979, 39.923429] }
+    },
+    {
+		"@search.action": "upload",
+        "id": "b3TplPdS",
+        "name": "Northern Hemisphere Brewco",
+        "description": "",
+        "slogan": "",
+        "breweryType": "farm",
+		"location": { "type": "Point", "coordinates": [-86.055565, 39.899728] }		
+    },
+    {
+		"@search.action": "upload",
+        "id": "VkNvPjBse",
+        "name": "Oceanic Brewco",
+        "description": "",
+        "slogan": "",
+        "breweryType": "nano",
+		"location": { "type": "Point", "coordinates": [-86.157746, 39.824688] }
+    },
+    {
+		"@search.action": "upload",	
+        "id": "zkXBTiBol",
+        "name": "North American Brewco",
+        "description": "",
+        "slogan": "",
+        "breweryType": "micro",
+		"location": { "type": "Point", "coordinates": [-86.034279, 39.835432] }				
+    }
+]
